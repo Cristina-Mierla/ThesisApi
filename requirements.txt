@@ -22,9 +22,6 @@ Flask==2.0.3
 fonttools==4.25.0
 frozenlist==1.2.0
 gast==0.4.0
-google-auth==2.6.0
-google-auth-oauthlib==0.4.4
-google-pasta==0.2.0
 grpcio==1.42.0
 h5py==2.10.0
 idna==3.3
