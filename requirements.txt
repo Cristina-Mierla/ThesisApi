@@ -69,7 +69,7 @@ scikit-learn==1.0.2
 scikit-learn-intelex==2021.5.1
 scipy==1.7.3
 seaborn==0.11.2
-sip==4.19.13
+sip==5.0.0
 six==1.16.0
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.6.0
