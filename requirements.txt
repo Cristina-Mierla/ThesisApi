@@ -23,7 +23,6 @@ fonttools==4.25.0
 frozenlist==1.2.0
 gast==0.4.0
 grpcio==1.42.0
-h5py==2.10.0
 idna==3.3
 imbalanced-learn==0.7.0
 importlib-metadata==4.11.3
